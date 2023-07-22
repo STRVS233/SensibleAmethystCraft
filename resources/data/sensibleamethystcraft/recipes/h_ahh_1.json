@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "am_hoe",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " c",
+    " c"
+  ],
+  "key": {
+    "#": {
+      "item": "sensibleamethystcraft:highpurityamethyst"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "sensibleamethystcraft:amethyst_hoe"
+  }
+}
